@@ -18,4 +18,14 @@ thank you bro ;)
 
 * new list element
 
+* plants
+  - flowers
+  - trees
+  - bushes
+* animals
+  * tigers
+  * elephants
+  * crocodiles
+  * dogs
+
 
